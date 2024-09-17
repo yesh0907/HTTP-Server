@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.block": "html",
+        "*.geojson": "json",
+        "*.html": "html",
+        "*.h": "c",
+        "array": "c",
+        "bitset": "c",
+        "functional": "c",
+        "cstdlib": "c",
+        "__locale": "c",
+        "ios": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

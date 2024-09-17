@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "intelliSenseMode": "linux-clang-x86",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c99"
+        }
+    ],
+    "version": 4
+}
